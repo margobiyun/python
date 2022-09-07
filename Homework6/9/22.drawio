@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T07:40:14.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="AKh1WuB5DXhwvVcZwYYE" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-07T07:57:46.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="kvz9XEZrcQddveKKMytu" version="20.2.8" type="github">
   <diagram id="ur-JqJte7XbGwA5rrWCP" name="Page-1">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         <mxCell id="adyjBawxEJ0rY5CUlXio-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="adyjBawxEJ0rY5CUlXio-7" target="adyjBawxEJ0rY5CUlXio-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="adyjBawxEJ0rY5CUlXio-7" value="summ=num1+num2+num3+num4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="adyjBawxEJ0rY5CUlXio-7" value="sum=num1+num2+num3+num4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="adyjBawxEJ0rY5CUlXio-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="adyjBawxEJ0rY5CUlXio-9" target="adyjBawxEJ0rY5CUlXio-11">
@@ -41,6 +41,9 @@
         </mxCell>
         <mxCell id="adyjBawxEJ0rY5CUlXio-15" value="Биюн Маргарита" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="35" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="adyjBawxEJ0rY5CUlXio-16" value="Урок 1.Задача 3." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="15" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
