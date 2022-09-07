@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T07:57:46.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="kvz9XEZrcQddveKKMytu" version="20.2.8" type="github">
-  <diagram id="ur-JqJte7XbGwA5rrWCP" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-09-07T08:39:06.180Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="iaSEBKAzS1sXyPAG8Fd3" version="20.2.8" type="github" pages="3">
+  <diagram id="ur-JqJte7XbGwA5rrWCP" name="Lesson1.Task3">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -44,6 +44,108 @@
         </mxCell>
         <mxCell id="adyjBawxEJ0rY5CUlXio-16" value="Урок 1.Задача 3." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="15" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dbTtiECWUBJAWUP08WbO" name="Lesson1.Task5">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5RGPoctz0PFuUXpigwob-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RGPoctz0PFuUXpigwob-1" target="5RGPoctz0PFuUXpigwob-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="75" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-2" value="Урок 1.Задача 5. Найти сумму всех четных чисел от 1 до 15." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="10" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RGPoctz0PFuUXpigwob-5" target="5RGPoctz0PFuUXpigwob-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-5" value="summ = 0&lt;br&gt;current = 2&lt;br&gt;max = 15&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-7" value="current - текущее значение&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="115" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-8" value="1 2 3 4 5...15&lt;br&gt;2 4 6...14&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="75" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-12" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RGPoctz0PFuUXpigwob-9" target="5RGPoctz0PFuUXpigwob-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5RGPoctz0PFuUXpigwob-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5RGPoctz0PFuUXpigwob-15">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-9" value="current &amp;lt; max" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5RGPoctz0PFuUXpigwob-11" target="5RGPoctz0PFuUXpigwob-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="400" />
+              <mxPoint x="250" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-11" value="summ = summ + current&lt;br&gt;current = current + 2" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-17" value="2&amp;lt;15 yes&lt;br&gt;summ=0+2=2&lt;br&gt;current=2+2=4&lt;br&gt;&lt;br&gt;4&amp;lt;15 yes&lt;br&gt;summ=2+4=6&lt;br&gt;current=4+2=6&lt;br&gt;&lt;br&gt;6&amp;lt;15 yes&lt;br&gt;summ=6+6=12&lt;br&gt;current=6+2=8&lt;br&gt;&lt;br&gt;8&amp;lt;15 yes&lt;br&gt;summ=12+8=20&lt;br&gt;current=8+2&lt;br&gt;...&lt;br&gt;...&lt;br&gt;...&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="180" width="110" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5RGPoctz0PFuUXpigwob-24" target="5RGPoctz0PFuUXpigwob-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-22" value="summ=" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RGPoctz0PFuUXpigwob-24" value="summ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d3MfCZMxgG5ZHFmAJ5RD" name="Lesson1.Task6">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0KZQb-35Q2te2tESb91g-1" value="Lesson1. Task 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KZQb-35Q2te2tESb91g-2" value="N! = 1*2*3*...(N-1)*N&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="55" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KZQb-35Q2te2tESb91g-3" value="5! = 1*2*3*4*5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="100" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0KZQb-35Q2te2tESb91g-4" value="Биюн Маргарита" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NgbuwybhtW-Zqjfj-OpG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rs59rh-47OrAfpq33JjV-2" target="NgbuwybhtW-Zqjfj-OpG-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rs59rh-47OrAfpq33JjV-2" value="Start&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="25" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NgbuwybhtW-Zqjfj-OpG-12" value="factorial = 0&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
