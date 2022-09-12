@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T11:17:40.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="9GgGpBIPvdqqyRYiPhcl" version="20.2.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-09-12T11:28:20.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="R0vio32jkeP9NX71Z5s4" version="20.2.8" type="github" pages="9">
   <diagram id="ur-JqJte7XbGwA5rrWCP" name="Lesson1.Task3">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -424,7 +424,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="f7VbJcPXci1ttmdaehFX" name="Lesson2.2.Task2">
+  <diagram id="f7VbJcPXci1ttmdaehFX" name="Lesson2.1.Task2">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -521,7 +521,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Wc3taAH-5vQz0bf0MdJY" name="Page-8">
+  <diagram id="Wc3taAH-5vQz0bf0MdJY" name="Lesson2.1. Task 3">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -635,6 +635,38 @@
         </mxCell>
         <mxCell id="oM3uE0Vgy9lPhLJzIepk-37" value="array[]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zH19jkgchsbjzSOSvX-L" name="HW.Task 4.">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y3RssBdC_oXudMhYAfeI-1" value="Homework&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y3RssBdC_oXudMhYAfeI-2" value="&lt;div style=&quot;text-align: start;&quot; title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&lt;div style=&quot;font-size: 13px;&quot; class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: Arial; font-weight: 700;&quot;&gt;Задача 4*.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: ArialMT;&quot;&gt;Найти среднее арифметическое среди всех элементов массива.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="480" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3RssBdC_oXudMhYAfeI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="y3RssBdC_oXudMhYAfeI-5" target="y3RssBdC_oXudMhYAfeI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3RssBdC_oXudMhYAfeI-5" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="294" y="90" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcgxUNbAiPzbEDSrkmYI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="y3RssBdC_oXudMhYAfeI-6" target="XcgxUNbAiPzbEDSrkmYI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3RssBdC_oXudMhYAfeI-6" value="array&lt;br&gt;size&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XcgxUNbAiPzbEDSrkmYI-1" value="Biyun Margarita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="525" y="5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XcgxUNbAiPzbEDSrkmYI-2" value="max = 0&lt;br&gt;index = 0&lt;br&gt;array[size]" style="whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="287" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
