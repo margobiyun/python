@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T11:43:38.179Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="4dN8YZoFOEv-pj6zCJOd" version="20.2.8" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-12T11:54:10.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="VAtdAnDAw_w_yFkCJfjq" version="20.2.8" type="github" pages="10">
   <diagram id="ur-JqJte7XbGwA5rrWCP" name="Lesson1.Task3">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -748,6 +748,80 @@
         </mxCell>
         <mxCell id="yxlNtsTqxdyiscC1k4ST-18" value="print(average)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="575" y="430" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XVXyQY9nu3DyHcuY9Esj" name="HW.Task2">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1J5Oe7Pm6h_OkVAzSW7F-1" value="Homework" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-1" value="&lt;div style=&quot;text-align: start;&quot; title=&quot;Page 1&quot; class=&quot;page&quot;&gt;&lt;div style=&quot;font-size: 12px;&quot; class=&quot;layoutArea&quot;&gt;&lt;div class=&quot;column&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: Arial; font-weight: 700;&quot;&gt;Задача 2. Нарисовать блок-схему&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-family: ArialMT;&quot;&gt;Задание на «разворот» массива. Нужно перевернуть массив и записать его в обратном порядке.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="570" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-2" value="Biyun Margarita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QBlssw0bqDLFNrcVzWnC-4" target="QBlssw0bqDLFNrcVzWnC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-4" value="Start" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QBlssw0bqDLFNrcVzWnC-5" target="QBlssw0bqDLFNrcVzWnC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-5" value="size&lt;br&gt;array[size]" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QBlssw0bqDLFNrcVzWnC-7" target="QBlssw0bqDLFNrcVzWnC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-7" value="ind=0&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QBlssw0bqDLFNrcVzWnC-9" target="QBlssw0bqDLFNrcVzWnC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-13" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="QBlssw0bqDLFNrcVzWnC-12">
+          <mxGeometry x="-0.0222" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QBlssw0bqDLFNrcVzWnC-9" target="QBlssw0bqDLFNrcVzWnC-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-9" value="ind&amp;lt;size" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QBlssw0bqDLFNrcVzWnC-11" target="QBlssw0bqDLFNrcVzWnC-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-11" value="array[size] = -1* array[ind]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="QBlssw0bqDLFNrcVzWnC-14" target="QBlssw0bqDLFNrcVzWnC-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-14" value="ind=ind+1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-17" value="print(array[size]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="415" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-19" value="[4 5 6 7]&lt;br&gt;size=4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="565" y="120" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QBlssw0bqDLFNrcVzWnC-20" value="0&amp;lt;4 yes&lt;br&gt;array[si&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="555" y="160" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
