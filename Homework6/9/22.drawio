@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T08:59:29.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="a2BzITLtB0-BU8curgu5" version="20.2.8" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-13T08:59:48.084Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="ahpeuW90TeVk2WK2PuIz" version="20.2.8" type="github" pages="11">
   <diagram id="ur-JqJte7XbGwA5rrWCP" name="Lesson1.Task3">
     <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -977,6 +977,9 @@
         </mxCell>
         <mxCell id="7unkoGg53R8liN6bcRjJ-1" value="Finish" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="760" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7unkoGg53R8liN6bcRjJ-3" value="Biyun Margarita" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
